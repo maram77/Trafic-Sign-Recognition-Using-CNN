@@ -26,8 +26,8 @@ pip install requirements.txt
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/maram77/Trafic-Sign-Recognition-Using-CNN.git
+   cd traffic-sign-detection-cnn-main
    ```
 
 2. Open the Jupyter notebook:
